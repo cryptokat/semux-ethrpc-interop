@@ -2,6 +2,19 @@
 
 This project aims to enable the interoperability between Semux API and Ethereum JSON-RPC in order to increase the adoption of Semux.
 
+## Table of Contents
+
+- [Usage](#usage)
+- [Tested Libraries](#tested-libraries)
+- [Supported RPC Methods](#supported-rpc-methods)
+- [License](#license)
+
+## Usage
+
+TODO
+
+## Tested Libraries
+
 ## Supported RPC Methods
 
 - [ ] web3_clientVersion
@@ -26,3 +39,7 @@ This project aims to enable the interoperability between Semux API and Ethereum 
 - [ ] eth_getTransactionByBlockHashAndIndex
 - [ ] eth_getTransactionByBlockNumberAndIndex
 - [ ] eth_getTransactionReceipt
+
+## License
+
+[MIT](LICENSE) © [cryptokat](https://github.com/cryptokat)
